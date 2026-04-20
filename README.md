@@ -1,5 +1,5 @@
 Image Preprocessing with OpenCV
-This project demonstrates basic image preprocessing techniques using OpenCV and Matplotlib in Python.
+This practice demonstrates basic image preprocessing techniques using OpenCV and Matplotlib in Python.
 The main goal is to reduce noise and improve image quality using filtering methods.
 
 Features
@@ -26,7 +26,11 @@ Final Denoised Image
 
 Notes
 Make sure the image file balloons_noisy.png is in the same directory as the script.
-The project is for educational purposes (image preprocessing basics).
+The practice is for educational purposes (image preprocessing basics).
+
+Supervisor
+This Practice was supervised by Mehrshad Eisaei.  
+Contact: mehrshadeisaei017@gmail.com
 
 Author
 Developed for learning image processing with OpenCV.
